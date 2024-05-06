@@ -1,0 +1,23 @@
+dateModified: 1714982239
+email:
+  fromEmail: nouafelcf@hotmail.com
+  fromName: werkpakket-3
+  transportType: craft\mail\transportadapters\Sendmail
+meta:
+  __names__:
+    1c873120-e3e3-4c42-b921-418b0bead1c0: werkpakket-3 # werkpakket-3
+    ac5a18c4-0314-4ff0-a8bc-86f171eeb775: werkpakket-3 # werkpakket-3
+    ec090e58-2f46-4a7a-aa46-a09b6a172808: 'Public Schema' # Public Schema
+system:
+  edition: solo
+  live: true
+  name: werkpakket-3
+  schemaVersion: 5.0.0.20
+  timeZone: America/Los_Angeles
+users:
+  allowPublicRegistration: false
+  defaultGroup: null
+  photoSubpath: null
+  photoVolumeUid: null
+  require2fa: false
+  requireEmailVerification: true
